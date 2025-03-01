@@ -71,3 +71,6 @@ You can customize your watchlist by adding more entries to the CSV file. Make su
 ## Troubleshooting
 
 If you encounter an error about missing `_tkinter` module, it means Tkinter is not installed properly. Follow the installation instructions above to install Tkinter for your operating system. 
+
+
+## Shoutout Cecilia
